@@ -82,7 +82,6 @@ You can view the live project hosted on **GitHub Pages**:
 **Md Main Uddin**
 
 * GitHub: [MineUddin908](https://github.com/MineUddin908)
-* Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
